@@ -30,7 +30,7 @@
   <tr>
     <td align="center"><b>Front Server</b></td>
     <td align="center"><b>회원 Api</b></td>
-    <td align="center"><b>도서 Api</b></td>
+    <td align="center"><b>상품 Api</b></td>
     <td align="center"><b>결제 Api</b></td>
     <td align="center"><b>쿠폰 Api</b></td>
     <td align="center"><b>2</b></td>
