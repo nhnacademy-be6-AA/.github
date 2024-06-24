@@ -33,7 +33,7 @@
     <td align="center"><b>상품 Api</b></td>
     <td align="center"><b>결제 Api</b></td>
     <td align="center"><b>쿠폰 Api</b></td>
-    <td align="center"><b>2</b></td>
+    <td align="center"><b>상품</b></td>
   </tr>
 </table>
 
