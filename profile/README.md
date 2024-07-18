@@ -51,3 +51,6 @@
   <br/>
   <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white">
 </p>
+
+## ERD
+https://github.com/nhnacademy-be6-AA/docs/blob/main/image/buzzbook_erd.png?raw=true
