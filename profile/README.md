@@ -52,5 +52,8 @@
   <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white">
 </p>
 
+## 아키텍처
+![image](https://github.com/user-attachments/assets/1712df4d-aec7-4ac1-9038-f3dd9e52ed69)
+
 ## ERD
 ![buzzbook_erd](https://github.com/user-attachments/assets/b9111518-7125-4e2e-bbf1-606775310eb6)
