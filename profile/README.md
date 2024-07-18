@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white">
 </p>
 
-## 아키텍처
+## 아키텍처 구조
 ![image](https://github.com/user-attachments/assets/1712df4d-aec7-4ac1-9038-f3dd9e52ed69)
 
 ## ERD
