@@ -53,4 +53,4 @@
 </p>
 
 ## ERD
-https://github.com/nhnacademy-be6-AA/docs/blob/main/image/buzzbook_erd.png?raw=true
+![buzzbook_erd](https://github.com/user-attachments/assets/b9111518-7125-4e2e-bbf1-606775310eb6)
