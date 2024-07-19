@@ -120,7 +120,7 @@
 </p>
 
 ## 아키텍처 구조
-![image]([https://github.com/user-attachments/assets/1712df4d-aec7-4ac1-9038-f3dd9e52ed69](https://raw.githubusercontent.com/nhnacademy-be6-AA/docs/main/설계/Architecture.png))
+![image](https://github.com/user-attachments/assets/82c59631-b308-4ee5-8a5c-28b93a472745)
 
 ## ERD
 ![buzzbook_erd](https://github.com/user-attachments/assets/b9111518-7125-4e2e-bbf1-606775310eb6)
