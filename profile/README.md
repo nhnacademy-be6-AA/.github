@@ -43,7 +43,7 @@
 
 ## 🛠 Tools
 <p>
-   <img src="https://img.shields.io/badge/intellijidea-#000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
    <br/>
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
