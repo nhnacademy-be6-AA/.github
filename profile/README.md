@@ -31,7 +31,7 @@
     <td align="center"><b>Front Server</b></td>
     <td align="center"><b>회원 Api</b></td>
     <td align="center"><b>상품 Api</b></td>
-    <td align="center"><b>주문 Api</b></td>
+    <td align="center"><b>주문 Api, Front</b></td>
     <td align="center"><b>쿠폰 Api</b></td>
     <td align="center"><b>상품 Api</b></td>
   </tr>
